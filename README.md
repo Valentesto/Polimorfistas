@@ -35,7 +35,7 @@ Repositorio de trabajo grupal - Programacion 2 - 2C de 2026
 <table>
   <tr>
     <td width="30%" align="center" valign="top">
-      <img src= "Descargas/github.jpeg" alt="perfil" style="width: 250px; border-radius: 10px;"/>
+      <img src= "Descargas/github.jpeg" alt="perfil" style="width: 250px; border-radius: 10px; margin-top: 30px;"/>
     </td>
     <td width="70%" valign="top">
       <h3>Sobre mí</h3>
