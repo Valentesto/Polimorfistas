@@ -87,3 +87,15 @@ Repositorio de trabajo grupal - Programacion 2 - 2C de 2026
     </td>
   </tr>
 </table>
+<table>
+  <tr>
+    <td width="30%" align="center" valign="top">
+      <img src="https://avatars.githubusercontent.com/u/269804249?v=4" alt="perfil" style="width: 250px; border-radius: 10px; margin-top: 30px;"/>
+    </td>
+    <td width="70%" valign="top">
+      <h3>Sobre mí</h3>
+      <p>Hola, mi nombre es Camila Aguilera. Tengo 19 años y soy estudiante de <b>Ingeniería Informática</b> en UADE.</p>
+      <p>Mis hobbies son los <b>VideoJuegos</b> (en especial Valorant) y la <b>música</b>.</p>
+    </td>
+  </tr>
+</table>
