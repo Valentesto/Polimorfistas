@@ -6,7 +6,7 @@ Repositorio de trabajo grupal - Programacion 2 - 2C de 2026
 <table>
   <tr>
     <td width="30%" align="center" valign="top">
-      <img src="img.agostinacerliani.jpg.jpeg" alt="perfil" width="150" style="border-radius: 10px;">
+      <img src="Descargas/img.agostinacerliani.jpg.jpeg" alt="perfil" width="150" style="border-radius: 10px;">
     </td>
     <td width="70%" valign="top">
       <h3>Sobre mí</h3>
@@ -46,4 +46,16 @@ Repositorio de trabajo grupal - Programacion 2 - 2C de 2026
   </tr>
 </table>
 
-
+<table>
+  <tr>
+    <td width="30%" align="center" valign="top">
+      <img src="" alt="perfil" width="150" style="border-radius: 10px;">
+    </td>
+    <td width="70%" valign="top">
+      <h3>Sobre mí</h3>
+      <p>Hola, soy [Martina Britez], tengo 19 años y soy estudiante de [UADE].</p>
+      <p>Actualmente, mi objetivo es expandir mis conocimientos tecnicos, aprender buenas practicas de desarrollo y ganar experiencia.</p>
+      <p>Mi hobby principal es el gimnasio y los videojuegos.</p>
+    </td>
+  </tr>
+</table>
