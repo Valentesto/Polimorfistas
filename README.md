@@ -25,7 +25,7 @@ Repositorio de trabajo grupal - Programacion 2 - 2C de 2026
     </td>
     <td width="70%" valign="top">
       <h3>Sobre mí</h3>
-      <p>Hola, soy [Valentina Testone], tengo 21 años y soy estudiante de [UADE].</p>
+      <p>Hola, soy Valentina Testone, tengo 21 años y soy estudiante de UADE.</p>
       <p>Actualmente, mi objetivo es seguir nutriendo mis conocimientos sobre la carrera de ingenieria en informatica para poder desenvolverme en el ambito profesional.</p>
       <p>Mi hobby principal es el deporte.</p>
     </td>
@@ -39,7 +39,7 @@ Repositorio de trabajo grupal - Programacion 2 - 2C de 2026
     </td>
     <td width="70%" valign="top">
       <h3>Sobre mí</h3>
-      <p>Hola, soy [Candela Nuñez], tengo 19 años y soy estudiante de [UADE].</p>
+      <p>Hola, soy Candela Nuñez, tengo 19 años y soy estudiante de UADE.</p>
       <p>Actualmente, mi objetivo es aprender cada vez mas, mejorar con la practica, alcanzar nuevas metas y adquirir conocimientos para mi carrera profesional.</p>
       <p>Mi hobby principal es la musica.</p>
     </td>
@@ -53,7 +53,7 @@ Repositorio de trabajo grupal - Programacion 2 - 2C de 2026
     </td>
     <td width="70%" valign="top">
       <h3>Sobre mí</h3>
-      <p>Hola, soy Martina Britez, tengo 19 años y soy estudiante de [UADE].</p>
+      <p>Hola, soy Martina Britez, tengo 19 años y soy estudiante de UADE.</p>
       <p>Actualmente, mi objetivo es expandir mis conocimientos tecnicos, aprender buenas practicas de desarrollo y ganar experiencia.</p>
       <p>Mi hobby principal es el gimnasio y los videojuegos.</p>
     </td>
