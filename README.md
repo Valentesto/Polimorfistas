@@ -6,7 +6,7 @@ Repositorio de trabajo grupal - Programacion 2 - 2C de 2026
 <table>
   <tr>
     <td width="30%" align="center" valign="top">
-      <img src="img.agostinacerliani.jpg.jpeg" alt="perfil" width="150" style="border-radius: 10px;">
+      <img src="Descargas/img.agostinacerliani.jpg.jpeg" alt="perfil" width="150" style="border-radius: 10px;">
     </td>
     <td width="70%" valign="top">
       <h3>Sobre mí</h3>
