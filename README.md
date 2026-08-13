@@ -6,7 +6,7 @@ Repositorio de trabajo grupal - Programacion 2 - 2C de 2026
 <table>
   <tr>
     <td width="30%" align="center" valign="top">
-      <img src="Descargas/agostinacerliani.jpeg" alt="perfil" width="150" >
+      <img src="Descargas/agostinacerliani.jpeg" alt="perfil" style="width: 250px; border-radius: 10px; margin-top: 30px;"/>
     </td>
     <td width="70%" valign="top">
       <h3>Sobre mí</h3>
@@ -21,7 +21,7 @@ Repositorio de trabajo grupal - Programacion 2 - 2C de 2026
 <table>
   <tr>
     <td width="30%" align="center" valign="top">
-      <img src="Descargas/ValentinaTestone.jpeg" alt="perfil" width="150" style="border-radius: 10px;">
+      <img src="Descargas/ValentinaTestone.jpeg" alt="perfil" style="width: 250px; border-radius: 10px; margin-top: 30px;"/>
     </td>
     <td width="70%" valign="top">
       <h3>Sobre mí</h3>
@@ -49,7 +49,7 @@ Repositorio de trabajo grupal - Programacion 2 - 2C de 2026
 <table>
   <tr>
     <td width="30%" align="center" valign="top">
-      <img src="" alt="perfil" width="150" style="border-radius: 10px;">
+      <img src="" alt="perfil" style="width: 250px; border-radius: 10px; margin-top: 30px;"/>
     </td>
     <td width="70%" valign="top">
       <h3>Sobre mí</h3>
@@ -63,7 +63,7 @@ Repositorio de trabajo grupal - Programacion 2 - 2C de 2026
 <table>
   <tr>
     <td width="30%" align="center" valign="top">
-      <img src="Descargas/Thomas.jpeg" alt="perfil" width="150" style="border-radius: 10px;">
+      <img src="Descargas/Thomas.jpeg" alt="perfil" style="width: 250px; border-radius: 10px; margin-top: 30px;"/>
     </td>
     <td width="70%" valign="top">
       <h3>Sobre mí</h3>
@@ -77,7 +77,7 @@ Repositorio de trabajo grupal - Programacion 2 - 2C de 2026
 <table>
   <tr>
     <td width="30%" align="center" valign="top">
-      <img src="https://raw.githubusercontent.com/julicallejon/Julieta-Callejon-Programacion-II/julicallejon-fotos/WhatsApp%20Image%202026-08-13%20at%2016.32.21.jpeg" alt="perfil" width="150" style="border-radius: 10px;">
+      <img src="https://raw.githubusercontent.com/julicallejon/Julieta-Callejon-Programacion-II/julicallejon-fotos/WhatsApp%20Image%202026-08-13%20at%2016.32.21.jpeg" alt="perfil" style="width: 250px; border-radius: 10px; margin-top: 30px;"/>
     </td>
     <td width="70%" valign="top">
       <h3>Sobre mí</h3>
