@@ -35,12 +35,12 @@ Repositorio de trabajo grupal - Programacion 2 - 2C de 2026
 <table>
   <tr>
     <td width="30%" align="center" valign="top">
-      <img src=c:\Users\PC\Pictures\Saved Pictures\github.jpeg alt="perfil" width="150" style="border-radius: 10px;">
+      <img src= "Descargas/github.jpeg" alt="perfil" width="150" style="border-radius: 10px;">
     </td>
     <td width="70%" valign="top">
       <h3>Sobre mí</h3>
       <p>Hola, soy [Candela Nuñez], tengo 19 años y soy estudiante de [UADE].</p>
-      <p>Actualmente, mi objetivo es alcanzar nuevas metas y conocimientos para mi carrera profesional.</p>
+      <p>Actualmente, mi objetivo es aprender cada vez mas, mejorar con la practica, alcanzar nuevas metas y adquirir conocimientos para mi carrera profesional.</p>
       <p>Mi hobby principal es la musica.</p>
     </td>
   </tr>
