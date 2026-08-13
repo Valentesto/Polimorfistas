@@ -59,3 +59,17 @@ Repositorio de trabajo grupal - Programacion 2 - 2C de 2026
     </td>
   </tr>
 </table>
+
+<table>
+  <tr>
+    <td width="30%" align="center" valign="top">
+      <img src="Descargas/imagenthomas.jpeg" alt="perfil" width="150" style="border-radius: 10px;">
+    </td>
+    <td width="70%" valign="top">
+      <h3>Sobre mí</h3>
+      <p>Hola, soy [Thomas Antonijevic], tengo 26 años y soy estudiante de [UADE].</p>
+      <p>Trabajé durante 3 años en desarrollo web Full-Stack, y otros 2 como Arquitecto de Preventa para SNP en proyectos de migraciones y desarrollos SAP. Mi objetivo es utilizar mi experiencia para poder recibirme y ejercer en la industria de videojuegos.</p>
+      <p>Mi hobby principal es competir en videojuegos, tambien soy fan de Game of Thrones y pasar tiempo con mis gatas.</p>
+    </td>
+  </tr>
+</table>
