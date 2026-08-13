@@ -53,7 +53,7 @@ Repositorio de trabajo grupal - Programacion 2 - 2C de 2026
     </td>
     <td width="70%" valign="top">
       <h3>Sobre mí</h3>
-      <p>Hola, soy [Martina Britez], tengo 19 años y soy estudiante de [UADE].</p>
+      <p>Hola, soy Martina Britez, tengo 19 años y soy estudiante de [UADE].</p>
       <p>Actualmente, mi objetivo es expandir mis conocimientos tecnicos, aprender buenas practicas de desarrollo y ganar experiencia.</p>
       <p>Mi hobby principal es el gimnasio y los videojuegos.</p>
     </td>
@@ -67,8 +67,8 @@ Repositorio de trabajo grupal - Programacion 2 - 2C de 2026
     </td>
     <td width="70%" valign="top">
       <h3>Sobre mí</h3>
-      <p>Hola, soy [Thomas Antonijevic], tengo 26 años y soy estudiante de [UADE].</p>
-      <p>Trabajé durante 3 años en desarrollo web Full-Stack, y otros 2 como Arquitecto de Preventa para SNP en proyectos de migraciones y desarrollos SAP. Mi objetivo es utilizar mi experiencia para poder recibirme y ejercer en la industria de videojuegos.</p>
+      <p>Hola, soy Thomas Antonijevic, tengo 26 años y soy estudiante de UADE.</p>
+      <p>Trabajé durante 3 años en desarrollo web Full-Stack, y otros 2 como Arquitecto de Preventa para SNP en proyectos de migraciones y desarrollos SAP. Mi objetivo es utilizar mi experiencia para poder recibirme y ejercer como Project Lead en la industria de videojuegos.</p>
       <p>Mi hobby principal es competir en videojuegos, tambien soy fan de Game of Thrones y pasar tiempo con mis gatas.</p>
     </td>
   </tr>
