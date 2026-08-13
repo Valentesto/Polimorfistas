@@ -25,7 +25,7 @@ Repositorio de trabajo grupal - Programacion 2 - 2C de 2026
     </td>
     <td width="70%" valign="top">
       <h3>Sobre mí</h3>
-      <p>Hola, soy [Valentina Testone], tengo 21 años y soy estudiante de [UADE].</p>
+      <p>Hola, soy Valentina Testone, tengo 21 años y soy estudiante de UADE.</p>
       <p>Actualmente, mi objetivo es seguir nutriendo mis conocimientos sobre la carrera de ingenieria en informatica para poder desenvolverme en el ambito profesional.</p>
       <p>Mi hobby principal es el deporte.</p>
     </td>
@@ -35,11 +35,11 @@ Repositorio de trabajo grupal - Programacion 2 - 2C de 2026
 <table>
   <tr>
     <td width="30%" align="center" valign="top">
-      <img src= "Descargas/github.jpeg" alt="perfil" width="150" style="border-radius: 10px;">
+      <img src= "Descargas/github.jpeg" alt="perfil" style="width: 250px; border-radius: 10px; margin-top: 30px;"/>
     </td>
     <td width="70%" valign="top">
       <h3>Sobre mí</h3>
-      <p>Hola, soy [Candela Nuñez], tengo 19 años y soy estudiante de [UADE].</p>
+      <p>Hola, soy Candela Nuñez, tengo 19 años y soy estudiante de UADE.</p>
       <p>Actualmente, mi objetivo es aprender cada vez mas, mejorar con la practica, alcanzar nuevas metas y adquirir conocimientos para mi carrera profesional.</p>
       <p>Mi hobby principal es la musica.</p>
     </td>
@@ -53,9 +53,23 @@ Repositorio de trabajo grupal - Programacion 2 - 2C de 2026
     </td>
     <td width="70%" valign="top">
       <h3>Sobre mí</h3>
-      <p>Hola, soy [Martina Britez], tengo 19 años y soy estudiante de [UADE].</p>
+      <p>Hola, soy Martina Britez, tengo 19 años y soy estudiante de UADE.</p>
       <p>Actualmente, mi objetivo es expandir mis conocimientos tecnicos, aprender buenas practicas de desarrollo y ganar experiencia.</p>
       <p>Mi hobby principal es el gimnasio y los videojuegos.</p>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td width="30%" align="center" valign="top">
+      <img src="Descargas/imagenthomas.jpeg" alt="perfil" width="150" style="border-radius: 10px;">
+    </td>
+    <td width="70%" valign="top">
+      <h3>Sobre mí</h3>
+      <p>Hola, soy Thomas Antonijevic, tengo 26 años y soy estudiante de UADE.</p>
+      <p>Trabajé durante 3 años en desarrollo web Full-Stack, y otros 2 como Arquitecto de Preventa para SNP en proyectos de migraciones y desarrollos SAP. Mi objetivo es utilizar mi experiencia para poder recibirme y ejercer como Project Lead en la industria de videojuegos.</p>
+      <p>Mi hobby principal es competir en videojuegos, tambien soy fan de Game of Thrones y pasar tiempo con mis gatas.</p>
     </td>
   </tr>
 </table>
