@@ -102,15 +102,24 @@ Repositorio de trabajo grupal - Programacion 2 - 2C de 2026
 
 # Bitacora 
 
-### 13/08 - Ejercicios integradores.pdf 
+### 13/08 - Clase 2 - Ejercicios integradores.pdf 
 
 - Se realizo el ejercicio 1 - Clase Producto: atributos, constructor e impresion
 - Ejercicio 2 - Consultar y modificar el stock
 - Ejercicio 3 - Vender un producto: metodos con condicionales
+  
 
-### 27/8 - Ejercitacion Clase 3 - Colas y Pilas
+### 20/8 - Ejercitacion Clase 3 - Implementacion de pilas
 
 - Se decidio por la utilizacion de Pila (Stack)
 - Se especifico el contrato con las funcionalidades de la pila --> IPila.java
 - Se desarrollaron los metodos considerados en el contrato --> Pila.java
 - Se utilizo un main como modo de visualizacion. El contacto del alto nivel con el programa --> Main.java
+
+
+### 27/8 - Ejercitación clase 4 - Pilas, Colas y Colas con prioridad
+- Utilizacion de operadores provistos en la clase 3
+- Ejercicio 1: Practica del seguimiento de una pila
+- Ejercicio 2: contador de elementos en una pila mediante TDAs
+- Ejercicio 3: operacion de pilas, hallar un objeto x en ella
+- Ejercicio 4: Practica del seguimiento de una cola
