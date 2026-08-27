@@ -1,3 +1,5 @@
+package EjerciciosIntegradores;
+
 public class producto {
     private final int codigo;
     private String nombre;
@@ -50,17 +52,25 @@ public class producto {
         System.out.println("Stock disponible: " + cantidad);
     }
 
-    public static void main(String[] args) {
-        // Crear primer producto
-        producto producto1 = new producto(1, "Laptop", 999.99, 5);
-        System.out.println("--- Producto 1 ---");
-        producto1.mostras_dato();
-        producto1.consultar_stock();
-
-        // Crear segundo producto
-        producto producto2 = new producto(2, "Mouse", 25.50, 20);
-        System.out.println("\n--- Producto 2 ---");
-        producto2.mostras_dato();
-        producto2.consultar_stock();
+    // metodo IngresarStock(cantidad)
+    public void ingresarStock(int cantidad) {
+        if (cantidad > 0) {
+            this.cantidad += cantidad;
+            System.out.println("Se han ingresado " + cantidad + " unidades al stock.");
+        } else {
+            System.out.println("La cantidad a ingresar debe ser mayor que cero.");
+        }
     }
+
+    // metodo venderProducto(cantidad)
+    public void venderProducto(int cantidad) {
+        if (cantidad > 0 && cantidad <= this.cantidad) {
+            this.cantidad -= cantidad;
+            System.out.println("Se han vendido " + cantidad + " unidades del producto.");
+        } else {
+            System.out.println("No hay suficiente stock para vender " + cantidad + " unidades.");
+        }
+
+    }
+    
 }

@@ -102,4 +102,8 @@ Repositorio de trabajo grupal - Programacion 2 - 2C de 2026
 
 # Bitacora 
 
-13/08 - Del pdf "Ejercicios integradores", se completo el primer ejercicio "clase producto: atributos, constructor e impresion" y el primer item (a) del segundo ejercicio "consultar y modificar el stock"
+### 13/08 - Ejercicios integradores.pdf 
+
+- Se realizo el ejercicio 1 - Clase Producto: atributos, constructor e impresion
+- Ejercicio 2 - Consultar y modificar el stock
+- Ejercicio 3 - Vender un producto: metodos con condicionales
