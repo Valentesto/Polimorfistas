@@ -107,3 +107,10 @@ Repositorio de trabajo grupal - Programacion 2 - 2C de 2026
 - Se realizo el ejercicio 1 - Clase Producto: atributos, constructor e impresion
 - Ejercicio 2 - Consultar y modificar el stock
 - Ejercicio 3 - Vender un producto: metodos con condicionales
+
+### 27/8 - Ejercitacion Clase 3 - Colas y Pilas
+
+- Se decidio por la utilizacion de Pila (Stack)
+- Se especifico el contrato con las funcionalidades de la pila --> IPila.java
+- Se desarrollaron los metodos considerados en el contrato --> Pila.java
+- Se utilizo un main como modo de visualizacion. El contacto del alto nivel con el programa --> Main.java
