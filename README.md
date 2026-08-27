@@ -49,7 +49,7 @@ Repositorio de trabajo grupal - Programacion 2 - 2C de 2026
 <table>
   <tr>
     <td width="30%" align="center" valign="top">
-      <img src="" alt="perfil" style="width: 250px; border-radius: 10px; margin-top: 30px;"/>
+      <img src="https://github.com/user-attachments/assets/91ed544b-c5fc-4954-a1bc-65cf9158e2cc" alt="foto" style="width: 250px; border-radius: 10px; margin-top: 30px;"/>
     </td>
     <td width="70%" valign="top">
       <h3>Sobre mí</h3>
