@@ -127,3 +127,4 @@ Repositorio de trabajo grupal - Programacion 2 - 2C de 2026
 ### 3/9 - Ejercitacion clase 5 - Conjunto, diccionario simple y diccionario completo
 
 - Ejercicio 1: Padron Electoral
+- Ejercicio 2: Invitados a la Fiesta de Fin de Cursada
