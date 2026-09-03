@@ -123,3 +123,7 @@ Repositorio de trabajo grupal - Programacion 2 - 2C de 2026
 - Ejercicio 2: contador de elementos en una pila mediante TDAs
 - Ejercicio 3: operacion de pilas, hallar un objeto x en ella
 - Ejercicio 4: Practica del seguimiento de una cola
+
+### 3/9 - Ejercitacion clase 5 - Conjunto, diccionario simple y diccionario completo
+
+- Ejercicio 1: Padron Electoral
